@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mathematical-physics/static/css/main.f4746be5.chunk.css",
+    "main.js": "/mathematical-physics/static/js/main.33542a84.chunk.js",
+    "main.js.map": "/mathematical-physics/static/js/main.33542a84.chunk.js.map",
+    "runtime-main.js": "/mathematical-physics/static/js/runtime-main.6b2d0649.js",
+    "runtime-main.js.map": "/mathematical-physics/static/js/runtime-main.6b2d0649.js.map",
+    "static/js/2.4fe0a99d.chunk.js": "/mathematical-physics/static/js/2.4fe0a99d.chunk.js",
+    "static/js/2.4fe0a99d.chunk.js.map": "/mathematical-physics/static/js/2.4fe0a99d.chunk.js.map",
+    "index.html": "/mathematical-physics/index.html",
+    "precache-manifest.588f2be39c3efe942dc7e755b46f5d36.js": "/mathematical-physics/precache-manifest.588f2be39c3efe942dc7e755b46f5d36.js",
+    "service-worker.js": "/mathematical-physics/service-worker.js",
+    "static/css/main.f4746be5.chunk.css.map": "/mathematical-physics/static/css/main.f4746be5.chunk.css.map",
+    "static/js/2.4fe0a99d.chunk.js.LICENSE.txt": "/mathematical-physics/static/js/2.4fe0a99d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b2d0649.js",
+    "static/js/2.4fe0a99d.chunk.js",
+    "static/css/main.f4746be5.chunk.css",
+    "static/js/main.33542a84.chunk.js"
+  ]
+}
